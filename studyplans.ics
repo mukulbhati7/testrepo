@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+PRODID:-//Coursera//Learner Study Calendar 1.0//EN
+NAME:Coursera Study Calendar
+X-WR-CALNAME:Coursera Study Calendar
+VERSION:2.0
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+DTSTAMP:20211124T054113Z
+DTSTART:20211122T113005
+DTEND:20211122T120005
+SUMMARY:Learning time - Tools for Data Science
+UID:oCBU5_VYEeeBQA7SG0nILA~2021-11-24T05:41:13.946~courseraorg
+DESCRIPTION:Course: Tools for Data Science\nhttps://www.coursera.org/lear
+ n/open-source-tools-for-data-science/home/welcome
+RRULE:FREQ=WEEKLY;WKST=SU;UNTIL=20211227T075959Z;BYDAY=MO,WE,FR
+END:VEVENT
+END:VCALENDAR
